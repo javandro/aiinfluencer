@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "project_name": "Rumah Idaman",
+      "project_desc": "Bagi yang belum punya rumah, semoga dilancarkan dan cepat memiliki rumah idaman. Mari saling mendoakan, dan berbagi tips untuk mengelola rumah dan keluarga"
+    }
+  ],
+  "frameworks": [
+    {
+      "framework_name": "AIDA",
+      "framework_desc": "Struktur konten dengan alur perhatian hingga aksi."
+    },
+    {
+      "framework_name": "PAS",
+      "framework_desc": "Pendekatan konten berbasis masalah dan solusi."
+    },
+    {
+      "framework_name": "Hook-Story-Offer",
+      "framework_desc": "Konten dimulai dengan hook kuat, dilanjutkan cerita, lalu penawaran."
+    },
+    {
+      "framework_name": "BAB",
+      "framework_desc": "Before, After, dan Bridge untuk menunjukkan perubahan kondisi."
+    },
+    {
+      "framework_name": "4U",
+      "framework_desc": "Headline yang Useful, Urgent, Unique, dan Ultra-specific."
+    }
+  ],
+  "personas": [
+    {
+      "persona_name": "Emak-Emak",
+      "persona_desc": "Wanita Asia Tenggara usia 42 tahun, tubuh berisi, perut sedikit buncit, wajah bulat, pipi tebal, kulit sawo matang, rambut hitam tertutup hijab, kerutan halus di sudut mata."
+    },
+    {
+      "persona_name": "Wanita Sensual",
+      "persona_desc": "Wanita Asia Tenggara usia 29 tahun, tubuh ramping berlekuk, bahu proporsional, wajah oval, kulit cerah hangat, rambut hitam panjang bergelombang, bibir penuh, mata tajam."
+    },
+    {
+      "persona_name": "Ustad Gaul",
+      "persona_desc": "Pria Asia Tenggara usia 38 tahun, tubuh proporsional, postur tegap, wajah lonjong, kulit cerah-sawo matang, janggut tipis rapi, rambut hitam pendek tertutup peci."
+    },
+    {
+      "persona_name": "Pemuda Desa",
+      "persona_desc": "Pria Asia Tenggara usia 24 tahun, tubuh kurus berotot ringan, kulit sawo matang, wajah tirus, tulang pipi menonjol, rambut hitam pendek agak berantakan."
+    },
+    {
+      "persona_name": "Badut Kampung",
+      "persona_desc": "Pria Asia Tenggara usia 33 tahun, tubuh sedang, wajah tertutup riasan putih tebal, hidung merah besar, rambut palsu keriting warna mencolok, kostum badut lusuh."
+    },
+    {
+      "persona_name": "Bapak-Bapak Viral",
+      "persona_desc": "Pria Asia Tenggara usia 47 tahun, tubuh pendek gempal, perut buncit, wajah kotak, kulit sawo matang, rambut hitam menipis, dahi lebar."
+    },
+    {
+      "persona_name": "Tukang Parkir Legend",
+      "persona_desc": "Pria Asia Tenggara usia 52 tahun, tubuh kurus, bahu agak membungkuk, kulit gelap terbakar matahari, wajah keras, kerutan dalam di dahi, rambut hitam beruban."
+    },
+    {
+      "persona_name": "Mbak Warung Kopi",
+      "persona_desc": "Wanita Asia Tenggara usia 27 tahun, tubuh mungil, wajah bulat kecil, kulit kuning langsat, rambut hitam diikat rendah, mata besar, hidung kecil."
+    },
+    {
+      "persona_name": "Abang Ojol",
+      "persona_desc": "Pria Asia Tenggara usia 34 tahun, tubuh sedang, lengan berotot, kulit sawo matang, wajah oval, rambut hitam pendek, kantung mata tipis."
+    },
+    {
+      "persona_name": "Influencer Kampung",
+      "persona_desc": "Pria Asia Tenggara usia 26 tahun, tubuh ramping, kulit cerah, wajah tirus, rambut dicat cokelat terang, alis tebal, dagu runcing."
+    }
+  ],
+  "tones": [
+    {
+      "tone_name": "Merakyat",
+      "tone_desc": "Nada sederhana, lugas, dan dekat dengan keseharian masyarakat."
+    },
+    {
+      "tone_name": "Santai",
+      "tone_desc": "Nada ringan, natural, dan tidak kaku."
+    },
+    {
+      "tone_name": "Provokatif",
+      "tone_desc": "Nada menggugah emosi dan memancing reaksi."
+    },
+    {
+      "tone_name": "Humoris",
+      "tone_desc": "Nada lucu, nyeleneh, dan menghibur."
+    },
+    {
+      "tone_name": "Serius",
+      "tone_desc": "Nada tegas dan fokus pada pesan utama."
+    }
+  ]
+}
